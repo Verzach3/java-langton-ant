@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Headbox-desktop</name>
-	<comment>Project Headbox-desktop created by Buildship.</comment>
+	<name>Langton Ant-desktop</name>
+	<comment>Project Langton Ant-desktop created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -24,12 +24,12 @@
 		<link>
 			<name>assets</name>
 			<type>2</type>
-			<location>/home/verzach3/Proyectos/Git/java-headbox/core/assets</location>
+			<location>/home/verzach3/Proyectos/Git/java-langton-ant/core/assets</location>
 		</link>
 	</linkedResources>
 	<filteredResources>
 		<filter>
-			<id>1607016789507</id>
+			<id>1607023566195</id>
 			<name></name>
 			<type>30</type>
 			<matcher>

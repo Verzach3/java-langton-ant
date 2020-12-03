@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Headbox-core</name>
-	<comment>Project Headbox-core created by Buildship.</comment>
+	<name>Langton Ant-core</name>
+	<comment>Project Langton Ant-core created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1607016789498</id>
+			<id>1607023566173</id>
 			<name></name>
 			<type>30</type>
 			<matcher>

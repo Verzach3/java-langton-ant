@@ -1,2 +1,0 @@
-com/thepanas/headbox/desktop/DesktopLauncher.java
- com.thepanas.headbox.desktop.DesktopLauncher
